@@ -1,0 +1,10 @@
+Ivanov:10000
+Petrov:15000
+Sidorov:25000.1
+Ivanova:15000.7
+Petrova:19000.9
+Sidorova:26000.1
+Oktyabrskiy:30000.5
+Petrovskiy:26000.4
+Znamenskiy:12000
+Koretskiy:31000.9
